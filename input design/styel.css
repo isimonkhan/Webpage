@@ -1,0 +1,29 @@
+.reza{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    height: 20%;
+position: relative;
+
+}
+.reza input{
+    width: auto%;
+    height: auto;
+    color: chocolate;
+    
+
+}
+h1{
+
+    display: flex;
+flex-direction: column;
+align-items: center;
+color: darkgoldenrod;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    height: 70%;
+}
