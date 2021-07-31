@@ -1,0 +1,26 @@
+body{
+background-color: black;
+
+
+}
+h1{
+    text-align: center;
+    color:rgb(21, 172, 8);
+    font-family: cursive;
+
+}
+.login {
+background-image: url(light.jpg);
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 2px;
+}
+.login p {
+    color: rgb(103, 196, 10);
+}
+.login input {
+    width: 30%;
+    height: 50%;
+}
+lo
