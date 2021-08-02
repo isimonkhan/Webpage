@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+    color: indianred;
+    font-size: initial;
+} 
+.one{
+    text-align: center;
+}
+.one button{
+
+    padding: 15px 25px;
+    font-size: 24px;
+    outline: none;
+    color: aquamarine;
+    background-color: rgb(31, 194, 112);
+    border: none;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 0 10px burlywood;
+
+}
+.one button:hover {
+    background-color:brown;
+
+}
+.one button:active{
+    background-color:brown;
+    box-shadow: 0 5px burlywood;
+    transform:translateY(4px);
+}
