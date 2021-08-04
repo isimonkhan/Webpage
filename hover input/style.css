@@ -1,0 +1,79 @@
+
+h1{
+    color: chocolate;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h2{
+    text-align: center;
+    color: gold;
+}
+p{ 
+    color: rgb(32, 1, 1);
+    font-size: medium;
+    text-align: center;
+
+}
+.div1{
+    text-align: center;
+}
+.div1 button{
+    padding: 15px 25px;
+    border: none;
+    outline: none;
+    color: rgb(12, 11, 11);
+    background-color: rgb(19, 221, 53);
+    border-radius: 15px;
+    box-shadow: 0 10px dimgray;
+}
+.div1 button:hover{
+    background-color: green;
+}
+.div1 button:active{
+    background-color: green;
+    box-shadow: 0 5px darkgray;
+    transform: translateY(5px);
+}
+.div{
+    text-align: center;
+    height: 10%;
+
+}
+.div input{
+    border:1px ;
+    border-color: gold;
+    background-color: ghostwhite;
+    padding: 5px 10px;
+    box-shadow:0 8px darkolivegreen;
+    border-radius: 10px; 
+    outline: none;
+}
+.div input:hover{
+    background-color: cornsilk;
+
+}
+.div input:active{
+    background-color:cornsilk ;
+    box-shadow: 0 5px navajowhite;
+    transform: translateY(4px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
