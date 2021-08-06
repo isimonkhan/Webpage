@@ -1,0 +1,26 @@
+.navbar{
+
+    overflow: hidden;
+    background-color: rgb(212, 21, 21);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    height:20%;
+    
+} 
+.navbar a{
+    float:right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar h1{
+    padding: 10px 15px;
+    color: white;
+    font-size:larger;
+}
+.navbar h1:hover{
+    padding: 10px;
+}
