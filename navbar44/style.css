@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(248, 246, 245);
+}
+li a input button{
+    font-family: monospace sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(11, 61, 226);
+    text-decoration: none;
+
+}
+header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 30px 10%;
+    box-sizing: border-box;
+
+}
+.link_nav{
+    list-style: none;
+
+}
+.link_nav li{
+    display: inline-block;
+    padding: 0 20px;
+}
+.link_nav li a{
+    transition: all 0.3s ease 0s;
+}
+.link_nav li a:hover{
+    color: brown;
+}
+button{
+    padding: 9px 25px;
+    background-color: beige;
+    border-radius: 40px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease 0s;
+}
+button:hover{
+    background-color: darkkhaki;
+}
+input{
+    padding: 5px 20px;
+    background-color: antiquewhite;
+    border-radius: 35px;
+    cursor: pointer;
+    border: black;
+    transition:all 0.3s ease 0s; 
+}
+input:hover{
+    background-color: goldenrod;
+
+} 
+.img{
+    height: 10%;
+    width: 10%;
+    cursor: pointer;
+}
+
+
+
